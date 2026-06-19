@@ -183,30 +183,6 @@ The application follows the MVC (Model-View-Controller) architecture and include
 
 ---
 
-## Screenshots
-
-### Homepage
-
-(Add screenshot)
-
-### Blog Post
-
-(Add screenshot)
-
-### Comments
-
-(Add screenshot)
-
-### Admin Dashboard
-
-(Add screenshot)
-
-### Login
-
-(Add screenshot)
-
----
-
 ## Installation
 
 ```bash
